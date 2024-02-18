@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="id" value="1db99714-39b0-4bb6-bb7a-a5c26bd49130" />
+          <option name="name" value="User" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="id" value="abdbffba-2e7b-4b28-8d64-e9ec69569dbd" />
+                <option name="method" value="GET" />
+                <option name="name" value="Get All" />
+                <option name="url" value="http://127.0.0.1:3000/user" />
+              </requestState>
+              <requestState>
+                <option name="body">
+                  <bodyState>
+                    <option name="formData">
+                      <list>
+                        <formDataParameterState>
+                          <option name="key" value="name" />
+                          <option name="value" value="hahah" />
+                        </formDataParameterState>
+                        <formDataParameterState>
+                          <option name="key" value="email" />
+                          <option name="value" value="wkwk" />
+                        </formDataParameterState>
+                        <formDataParameterState>
+                          <option name="key" value="age" />
+                          <option name="value" value="12" />
+                        </formDataParameterState>
+                      </list>
+                    </option>
+                    <option name="type" value="FORM_DATA" />
+                  </bodyState>
+                </option>
+                <option name="headers">
+                  <list>
+                    <headerState>
+                      <option name="key" value="Content-Type" />
+                      <option name="value" value="multipart/form-data" />
+                    </headerState>
+                  </list>
+                </option>
+                <option name="id" value="972f15de-6bd5-4e31-a3e9-e25cc851029f" />
+                <option name="method" value="POST" />
+                <option name="name" value="Create" />
+                <option name="url" value="http://127.0.0.1:3000/user" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="I:\Project\Golang\PZN\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="d21d829a-17af-4718-8ea4-9be179371b5e" />
+  </component>
+</project>
